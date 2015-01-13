@@ -9,11 +9,12 @@ Requirements
 
 Install
 -------
-1. Copy `app/code/community/DOTS` to `app/code/community`
-2. Copy `app/etc/modules/DOTS_FastTax.xml` to `app/etc/modules`
-3. Head on over to `System > Configuratiom > DOTS > DOTS FastTax Config`
-4. Enter the required FastTax Credentials: REST Base URL and License Key
-5. Select Taxable Regions. All regions selected will have tax applied through DOTS FastTax
+1. Copy `app/code/community/DOTS` to `app/code/community`.
+2. Copy `app/etc/modules/DOTS_FastTax.xml` to `app/etc/modules`.
+3. Head on over to `System > Configuratiom > DOTS > DOTS FastTax Config`.
+4. Enter the required FastTax Credentials: REST Base URL and License Key.
+5. Select Taxable Regions. All regions selected will have tax applied through DOTS FastTax.
+6. Save.
 
 Tree Structure
 --------------

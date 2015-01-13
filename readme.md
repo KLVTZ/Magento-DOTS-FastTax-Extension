@@ -1,8 +1,8 @@
 Magento DOTS FastTax Extension
 ==============================
 
-Now you can implement [DOTS FastTax](http://www.serviceobjects.com/products/ecommerce/fasttax),
-a real-time sales tax API, into your magento application.
+Now you can implement DOTS FastTax, a real-time sales tax API 
+by Service Objects , into your magento application.
 
 Requirements
 ------------
@@ -42,12 +42,19 @@ Tree Structure
 
 QA
 --
-- *Why do I have to enter my REST Base URL*: DOTS FastTax is subject to change
-  their HTTP GET. Because of this, leaving the base url open for configuration
-  allows both developers and non-developers to update when appropriate.
-- *Does this work outside the US and Canada*: Unfortunately no. The API only
-  supports the United States and Canada. Although I provide the opportunity to
-  select regions outside the United States and Canada, only those two are
-  currently supported by [Service Objects](http://www.serviceobjects.com/).
-- *Your implementation sucks monkey balls*: PR my friend.
-- *Docs bro*: [https://docs.serviceobjects.com/display/rest/DOTS+FastTax+-+REST]
+*Why do I have to enter my REST Base URL?* 
+
+DOTS FastTax is subject to change
+their HTTP GET. Because of this, leaving the base url open for configuration
+allows both developers and non-developers to update when appropriate.
+
+*Does this work outside the US and Canada?*
+
+Unfortunately no. The API only
+supports the United States and Canada. Although I provide the opportunity to
+select regions outside the United States and Canada, only those two are
+currently supported by [Service Objects](http://www.serviceobjects.com/).
+
+*Your implementation sucks monkey balls*: PR my friend.
+
+*Docs bro*: [DOTS FastTax REST](https://docs.serviceobjects.com/display/rest/DOTS+FastTax+-+REST)

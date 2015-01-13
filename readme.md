@@ -1,13 +1,11 @@
 Magento DOTS FastTax Extension
 ==============================
-
-Now you can implement DOTS FastTax, a real-time sales tax API 
-by Service Objects , into your magento application.
+DOTS FastTax Extension for real-time sales tax from Service Objects API.
 
 Requirements
 ------------
-- DOTS FastTax - REST Base URL: `http://ws.serviceobjects.com/rest/FT/api.svc/TaxInfoMulti/`
-- DOTS FastTax License Key
+- REST Base URL: `http://ws.serviceobjects.com/rest/FT/api.svc/TaxInfoMulti/`
+- License Key
 
 Install
 -------

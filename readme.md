@@ -35,7 +35,6 @@ Tree Structure
 │   └── etc
 │       └── modules
 │           └── DOTS_FastTax.xml
-└── readme.md
 ```
 
 QA

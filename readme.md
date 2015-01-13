@@ -18,23 +18,23 @@ Install
 Tree Structure
 --------------
 ```bash
-├── app
-│   ├── code
-│   │   └── community
-│   │       └── DOTS
-│   │           └── FastTax
-│   │               ├── Helper
-│   │               │   ├── DOTS.php
-│   │               │   ├── Data.php
-│   │               │   └── JSON.php
-│   │               ├── Model
-│   │               │   └── Calculation.php
-│   │               └── etc
-│   │                   ├── config.xml
-│   │                   └── system.xml
-│   └── etc
-│       └── modules
-│           └── DOTS_FastTax.xml
+app
+├── code
+│   └── community
+│       └── DOTS
+│           └── FastTax
+│               ├── Helper
+│               │   ├── DOTS.php
+│               │   ├── Data.php
+│               │   └── JSON.php
+│               ├── Model
+│               │   └── Calculation.php
+│               └── etc
+│                   ├── config.xml
+│                   └── system.xml
+└── etc
+    └── modules
+	        └── DOTS_FastTax.xml
 ```
 
 QA

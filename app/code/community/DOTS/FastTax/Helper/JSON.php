@@ -3,7 +3,7 @@
 /**
  * DOTS FastTax JSON Helper
  * @package DOTS_FastTax
- * @author Quadrant 4 | Media
+ * @author Justin Page | KLVTZ
  */
 class DOTS_FastTax_Helper_JSON extends Mage_Core_Helper_Abstract
 {

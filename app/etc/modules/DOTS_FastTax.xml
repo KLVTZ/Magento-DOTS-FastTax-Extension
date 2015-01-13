@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+		<DOTS_FastTax>
+			<active>true</active>
+			<codePool>community</codePool>
+		</DOTS_FastTax>
+    </modules>
+</config>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<global>
+		<models>
+			<tax>
+				<rewrite>
+					<calculation>DOTS_FastTax_Model_Calculation</calculation>
+				</rewrite>
+			</tax>
+		</models>
+		<helpers>
+			<DOTS_FastTax>
+				<class>DOTS_FastTax_Helper</class>
+			</DOTS_FastTax>
+		</helpers>
+	</global>
+	<default>
+		<dots_options>
+			<fasttax_creds>
+				<auth_key dbackend_model="adminhtml/system_config_backend_encrypted" />
+			</fasttax_creds>
+		</dots_options>
+	</default>
+	<adminhtml>
+		<acl>
+			<resources>
+				<admin>
+					<children>
+						<system>
+							<children>
+								<config>
+									<children>
+										<dots_options translate="title" module="DOTS_FastTax">
+											<title>DOTS FastTax Config</title>
+										</dots_options>
+									</children>
+								</config>
+							</children>
+						</system>
+					</children>
+				</admin>
+			</resources>
+		</acl>
+	</adminhtml>
+</config>

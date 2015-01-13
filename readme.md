@@ -55,4 +55,4 @@ currently supported by [Service Objects](http://www.serviceobjects.com/).
 
 *Your implementation sucks monkey balls*: PR my friend.
 
-*Docs bro*: [DOTS FastTax REST](https://docs.serviceobjects.com/display/rest/DOTS+FastTax+-+REST)
+*Docs*: [DOTS FastTax REST](https://docs.serviceobjects.com/display/rest/DOTS+FastTax+-+REST)

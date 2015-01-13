@@ -55,4 +55,12 @@ currently supported by [Service Objects](http://www.serviceobjects.com/).
 
 Documentation
 -------------
-This plugin uses [DOTS FastTax REST API](https://docs.serviceobjects.com/display/rest/DOTS+FastTax+-+REST).
+This plugin uses [DOTS FastTax REST API][rest-api-doc].
+
+[rest-api-doc]: https://docs.serviceobjects.com/display/rest/DOTS+FastTax+-+REST
+
+License
+-------
+It's MIT licensed. See the [LICENSE][license] file for more information.
+
+[license]: /LICENSE

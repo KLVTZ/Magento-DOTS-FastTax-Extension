@@ -53,6 +53,4 @@ supports the United States and Canada. Although I provide the opportunity to
 select regions outside the United States and Canada, only those two are
 currently supported by [Service Objects](http://www.serviceobjects.com/).
 
-*Your implementation sucks monkey balls*: PR my friend.
-
-*Docs*: [DOTS FastTax REST](https://docs.serviceobjects.com/display/rest/DOTS+FastTax+-+REST)
+*Docs*: This plugin uses [DOTS FastTax REST API](https://docs.serviceobjects.com/display/rest/DOTS+FastTax+-+REST).
